@@ -1,0 +1,21 @@
+LED	Lights
+The	idea	behind	the	application	has	a	slight	geophysical	background	or	
+could	be	used	in	this	context.	The	goal	was	to	use	the	LED	strip,	for	
+example,	to	categorize	the	strength	of	earthquakes	and	to	arrange	their	
+strength	by	order.	This	means	that	you	assign	colors	for	different	strengths.	
+So	there	are	12	categories	for	our	three	colors.	The	color	green	includes	the	
+categories	one	to	four,	which	range	from	- category	1	"The	earthquake	is	
+not	noticeable"	to	category	4	"The	earthquake	is	noticeable".	Categories	five	
+to	eight	are	represented	by	the	color	yellow.	The	area	for	these	categories	
+ranges	from	"strongly	noticeable	by	most	people"	to	"building	damage	-
+slight	damage	occurs".	The	color	red,	which	also	generally	stands	for	
+danger,	covers	the	last	categories	9	to	12.	This	area	starts	with	"serious	
+building	damage"	to	"complete	devastation".	Definitely,	an	improvement	
+would	still	be	possible,	since	there	are	sometimes	large	differences	between	
+the	individual	earthquake	categories.	(For	example,	a	category	two	
+earthquake	is	33	times	stronger	than	a	category	one.)	However,	the	
+application	provides	a	specific	direction	to	distinguish	earthquakes	
+between:
+• non-dangerous,	weak,	[green]
+• Noticeable,	potentially	dangerous,	[yellow]
+• strong/very	strong,	life-threatening.	[red]
